@@ -1,6 +1,3 @@
-# Ashish.github.io
-# Ashish Project README
-
 ## About Me
 
 Hello! I'm Ashish Jathanna, a passionate Python Developer with a keen interest in [Your Interests/Hobbies/Fields of Expertise]. I love exploring new technologies, solving challenging problems, and constantly improving my skills. This project is a reflection of my journey, showcasing my skills, projects, and professional experience.
